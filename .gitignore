@@ -1,0 +1,30 @@
+# Nextflow
+work/
+.nextflow/
+.nextflow.log*
+.nextflow.trace*
+.nextflow.history
+.nextflow.cache/
+
+# Outputs / large data
+results_def/
+output/
+data/
+datasets/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.cram
+*.crai
+*.vcf.gz
+*.tbi
+
+# Secrets and local configuration
+.env
+*.pem
+*.key
+config/local.config
+secrets/

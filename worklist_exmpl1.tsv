@@ -1,0 +1,4 @@
+sample,barcode,rawdata_path,ref_path
+L3,barcode01,/mnt/data_storage/ont/fastq_pass,/mnt/labs/refs/07864g.fasta
+L4,barcode72,/mnt/data_storage/ont/fastq_pass,/mnt/exp34/ref_Bjyf56.fasta
+Pd55-1,barcode150,/mnt/data_storage/ont/fastq_pass,/mnt/labs/refs/ref_P1r56.fasta
